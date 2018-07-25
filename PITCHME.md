@@ -1,62 +1,68 @@
-### Hello elena
 
+# Elena Project
 
-This is sample slide page.
-
-
----
-
-
-### silde page2
-
-
-+++
-
-
-### slide page3
+### www.github.com/opdc/Elena
 
 ---
+
+## Ray Lee (victorlee@apache.org)
+
+- Code Presenting |
+- Repo Source, Static Blocks, GIST 
+- Custom CSS Styling 
+- Slideshow Background Image 
+- Slide-specific Background Images 
+- Custom Logo, TOC, and Footnotes 
 
 ### code highlight
 
+---
 
-```
-var str1 = 'hello world';
-var flag = true;
-var result = 10 + 20;
+## Template Help
 
-
-console.log( str1 );
-console.log( str2 );
-console.log( str3 );
-```
-@[2](flag에 'truu' 입력)
-
+- [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
+  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
+- [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
+- [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
+- [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
+- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
 ---
 
-### display animation
+## Go GitPitch Pro!
 
-
-- Java
-- JavaScript |
-- Kotlin |
-- Go |
-- Scala |
-
----
-
-### display chart
-
-
-<canvas data-chart="radar">
-    Month, 1月, 2月, 3月, 4月, 5月, 6月, 7月
-    1980, 65, 59, 80, 81, 56, 55, 40
-    2017, 28, 48, 40, 19, 86, 27, 90
-</canvas>
-
+<br>
+<div class="left">
+    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
+    <a href="https://gitpitch.com/pro-features" class="pro-link">
+    More details here.</a>
+</div>
+<div class="right">
+    <ul>
+        <li>Private Repos</li>
+        <li>Private URLs</li>
+        <li>Password-Protection</li>
+        <li>Image Opacity</li>
+        <li>SVG Image Support</li>
+    </ul>
+</div>
 
 ---
 
+### Questions?
 
-### End
+<br>
+
+@fa[twitter gp-contact](@gitpitch)
+
+@fa[github gp-contact](gitpitch)
+
+@fa[medium gp-contact](@gitpitch)
+
+---?image=assets/image/gitpitch-audience.jpg
+
+@title[Download this Template!]
+
+### <span class="white">Get your presentation started!</span>
+### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/sky)
+
