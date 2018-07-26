@@ -7,11 +7,9 @@
 
 ---
 
-## Ray Lee 
-#### (victorlee@apache.org)
+## Ray Lee #### (victorlee@apache.org)
 
-- 오픈소스 기반 솔루션 개발 : LENA(WEB/WAS),TunA(APM),CenA(E2E) 등
-  - 대한민국SW 기술대상대상수상(LENA, 2017)
+- 오픈소스 기반 솔루션 개발 : WEB/WAS, APM, E2E 등  
 - 오픈소스 기반 표준 프레임워크 개발 : Devon Open, DevonFrame 등
 - 전자정부 표준프레임워크 1,2,3단계 구축 사업 및 유지보수 사업수행 
 
