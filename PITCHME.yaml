@@ -8,7 +8,7 @@
 theme : night
 theme-override : assets/css/PITCHME.css
 layout : top
-logo : assets/image/opdc.png
+logo : assets/image/opdc-black.png
 transition : none
 footnote : Elena Project @ OPDC
 
