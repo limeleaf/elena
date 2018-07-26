@@ -1,28 +1,26 @@
-# theme
+#
+# GitPitch Slideshow Custom Settings
+#
+# For details, visit Wiki:
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+#
+
 theme : sky
-
-# logo icon
-logo : logo.png
-
-# footer
-footnote : "© 2018 lenalab Inc."
+theme-override : assets/css/PITCHME.css
+# theme-override : assets/css/PITCHME.codemax.css
+logo : assets/image/logo.png
+highlight : hybrid
+transition : none
+published : true
+footnote : "GitPitch [ Sky ] Presentation Template"
 
 # set slide page
-slide-number: true
-
-# code syntax highlight
-highlight : monokai
-
+#slide-number: true
 # slide auto play 
-autoslide : 5000
-
+#autoslide : 5000
 # slide loop
-loop : true
-
-
+#loop : true
 # transition
-transition : fade
-
-
+#transition : fade
 # chart
-charts : true
+#charts : true
