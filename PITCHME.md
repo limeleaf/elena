@@ -7,14 +7,24 @@
 
 ---
 
-## Ray Lee 
-##### (victorlee@apache.org)
-- Cloud 아키텍트 (2017~)
-- 솔루션 아키텍트 (2015~)
+## Ray Lee
+##### (sleepred@gmail.com)
 - F/W 아키텍트 (2009~)
+  - 표준프레임워크 1,2,3 단계 구추 사업
+  - 표준프레임워크 유지보수 사업  
 - S/W 아키텍트 (2001~) 
 
 - 표준프레임워크 에반젤리스트/커미터 (2012~) |
+
++++
+
+## Victor Lee 
+##### (victorlee@apache.org)
+- Cloud 아키텍트 (2017~)
+  - Cloud向 솔루션 개발
+- 솔루션 아키텍트 (2015~)
+  - LENA(WEB/WAS), TunA(APM), CenA(E2E) 등  
+
 - 아파치 재단 커미터 (2014~) |
 
 ---
