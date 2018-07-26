@@ -1,18 +1,21 @@
 
+
 ## Elena Project
 
-### www.github.com/opdc/Elena
+#### www.github.com/opdc/Elena
 
 ---
 
-## Ray Lee (victorlee@apache.org)
 
-- Code Presenting |
+## Ray Lee 
+#### (victorlee@apache.org)
+
 - Repo Source, Static Blocks, GIST 
 - Custom CSS Styling 
 - Slideshow Background Image 
 - Slide-specific Background Images 
 - Custom Logo, TOC, and Footnotes 
+- Code Presenting |
 
 ---
 
