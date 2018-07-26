@@ -1,7 +1,7 @@
 ---
 
-<br>
-### Git@css[gold](Elena) Project
+<br><br>
+### @css[gold](Elena) Project
 #### www.github.com/opdc/Elena
 
 ---
