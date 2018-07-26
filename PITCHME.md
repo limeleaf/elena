@@ -1,5 +1,5 @@
 
-# Elena Project
+## Elena Project
 
 ### www.github.com/opdc/Elena
 
@@ -13,8 +13,6 @@
 - Slideshow Background Image 
 - Slide-specific Background Images 
 - Custom Logo, TOC, and Footnotes 
-
-### code highlight
 
 ---
 
