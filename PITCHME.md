@@ -7,7 +7,8 @@
 
 ---
 
-## Ray Lee #### (victorlee@apache.org)
+## Ray Lee 
+##### (victorlee@apache.org)
 
 - 오픈소스 기반 솔루션 개발 : WEB/WAS, APM, E2E 등  
 - 오픈소스 기반 표준 프레임워크 개발 : Devon Open, DevonFrame 등
