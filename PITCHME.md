@@ -32,29 +32,17 @@
 
 ---
 
-## ELENA Project
+## Elena Project 개요
 
-- [LENA 커뮤니티 버전](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
-- [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
-- [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
-- [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
-- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
+- Tomcat + Enterprise 기능 + APM + E2E + α
+- Enterprise Web Applicaiton Server 프로젝트 
+  + for example, [Wildfly](http://wildfly.org/about/), [TCat](https://www.mulesoft.com/tcat/leading-enterprise-apache-tomcat-application-server), tc Server
+- [LENA](http://soltech.lgcns.com/lena) 커뮤니티 버전 
+- 관련 프로젝트 : LENA, TunA, Tomcat, Apache HTTP Server, Nginx
 
----
++++
 
 ## LENA Project
-
-- [Cloud向 지능형 WAS](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
-- [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
-- [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
-- [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
-- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
-
----
-
-## Go GitPitch Pro!
 
 <br>
 <div class="left">
@@ -71,6 +59,26 @@
         <li>SVG Image Support</li>
     </ul>
 </div>
+
+---
+
+## Elena Project 개발 기능 
+
+- Tomcat + Enterprise 기능 + APM + E2E + α
+- Enterprise Web Applicaiton Server 프로젝트 
+  + for example, [Wildfly](http://wildfly.org/about/), [TCat](https://www.mulesoft.com/tcat/leading-enterprise-apache-tomcat-application-server), tc Server
+- [LENA](http://soltech.lgcns.com/lena) 커뮤니티 버전 
+- 관련 프로젝트 : LENA, TunA, Tomcat, Apache HTTP Server, Nginx
+
+---
+
+## Elena Project 멤버 및 개발 일정 
+
+- Tomcat + Enterprise 기능 + APM + E2E + α
+- Enterprise Web Applicaiton Server 프로젝트 
+  + for example, [Wildfly](http://wildfly.org/about/), [TCat](https://www.mulesoft.com/tcat/leading-enterprise-apache-tomcat-application-server), tc Server
+- [LENA](http://soltech.lgcns.com/lena) 커뮤니티 버전 
+- 관련 프로젝트 : LENA, TunA, Tomcat, Apache HTTP Server, Nginx
 
 ---
 
