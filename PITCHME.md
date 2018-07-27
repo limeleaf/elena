@@ -3,7 +3,7 @@
 <br><br><br><br>
 ## @css[gold](Elena) Project
 
-#### www.github.com/ @css[gold](opdc)/Elena
+#### www.github.com/@css[gold](opdc)/Elena
 
 ---
 
@@ -32,8 +32,8 @@
 
 ---
 
-## Elena Project 개요
-
+### Elena Project 개요
+<br>
 - Tomcat + Enterprise 기능 + APM + E2E + α
 - Enterprise Web Applicaiton Server 프로젝트 
   + for example, [Wildfly](http://wildfly.org/about/), [TCat](https://www.mulesoft.com/tcat/leading-enterprise-apache-tomcat-application-server), tc Server
@@ -42,7 +42,7 @@
 
 +++
 
-## LENA Project
+### LENA Project
 
 <br>
 <div class="left">
@@ -62,8 +62,8 @@
 
 ---
 
-## Elena Project 개발 기능 
-
+### Elena Project 개발 기능 
+<br>
 - Tomcat + Enterprise 기능 + APM + E2E + α
 - Enterprise Web Applicaiton Server 프로젝트 
   + for example, [Wildfly](http://wildfly.org/about/), [TCat](https://www.mulesoft.com/tcat/leading-enterprise-apache-tomcat-application-server), tc Server
@@ -73,7 +73,7 @@
 ---
 
 ## Elena Project 멤버 및 개발 일정 
-
+<br>
 - Tomcat + Enterprise 기능 + APM + E2E + α
 - Enterprise Web Applicaiton Server 프로젝트 
   + for example, [Wildfly](http://wildfly.org/about/), [TCat](https://www.mulesoft.com/tcat/leading-enterprise-apache-tomcat-application-server), tc Server
