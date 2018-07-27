@@ -9,6 +9,7 @@
 
 ### Ray Lee
 ##### (sleepred@gmail.com)
+<br>  
 - S/W 아키텍트 (2001~) 
 - F/W 아키텍트 (2009~)
   - 표준프레임워크 1,2,3 단계 구추 사업
@@ -21,6 +22,7 @@
 
 ### Victor Lee 
 ##### (victorlee@apache.org)
+<br>  
 @ul[circles](false)
 - 솔루션 아키텍트 (2015~)
   - LENA(WEB/WAS), TunA(APM), CenA(E2E) 등  
@@ -44,7 +46,7 @@
 - @css[byline](관련 프로젝트 : LENA, TunA, Tomcat, Apache HTTP Server, Nginx
 @ulend)
 
-+++
++++?image=assets/images/lena-bg.jpg&size=cover&opacity=20
 
 ### LENA Project
 
@@ -69,20 +71,13 @@
 ### Elena Project 개발 기능 
 <br>
 - Tomcat + Enterprise 기능 + APM + E2E + α
-- Enterprise Web Applicaiton Server 프로젝트 
-  + for example, [Wildfly](http://wildfly.org/about/), [TCat](https://www.mulesoft.com/tcat/leading-enterprise-apache-tomcat-application-server), tc Server
-- [LENA](http://soltech.lgcns.com/lena) 커뮤니티 버전 
-- 관련 프로젝트 : LENA, TunA, Tomcat, Apache HTTP Server, Nginx
+
 
 ---
 
-## Elena Project 멤버 및 개발 일정 
+### Elena Project 계획  
 <br>
 - Tomcat + Enterprise 기능 + APM + E2E + α
-- Enterprise Web Applicaiton Server 프로젝트 
-  + for example, [Wildfly](http://wildfly.org/about/), [TCat](https://www.mulesoft.com/tcat/leading-enterprise-apache-tomcat-application-server), tc Server
-- [LENA](http://soltech.lgcns.com/lena) 커뮤니티 버전 
-- 관련 프로젝트 : LENA, TunA, Tomcat, Apache HTTP Server, Nginx
 
 ---
 
