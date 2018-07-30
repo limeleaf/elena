@@ -16,7 +16,7 @@
   - 표준프레임워크 유지보수 사업  
   - 오픈소스 기반 표준프레임워크 개발 
 <br>  
-- 표준프레임워크 에반젤리스트/커미터 (2012~) |
+- 표준프레임워크 에반젤리스트/커미터 (2012~) 
 
 +++
 
@@ -28,9 +28,9 @@
   - LENA(WEB/WAS), TunA(APM), CenA(E2E) 등  
 - Cloud 아키텍트 (2017~)
   - Cloud向 솔루션 개발
-  - 대한민국S/W 기술대상대상수상(LENA, 2017)
-<br>
-- 아파치 재단 커미터 (2014~) |
+  - 대한민국S/W 기술대상대상수상(LENA, 2017)<br>
+
+- 아파치 재단 커미터 (2014~) 
 <br>
 @ulend
 ---
@@ -39,6 +39,7 @@
 <br>
 
 @ul[circles](true)
+
 - Enterprise Web Applicaiton Server 개발 프로젝트 
   + for example, [Wildfly](http://wildfly.org/about/), [TCat](https://www.mulesoft.com/tcat/leading-enterprise-apache-tomcat-application-server), tc Server
 - [LENA](http://soltech.lgcns.com/lena) 커뮤니티 버전 
@@ -53,7 +54,7 @@
 
 <br>
 <div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
+    <img src="./assets/image/lena-logo.jpg">
     <a href="https://gitpitch.com/pro-features" class="pro-link">
     More details here.</a>
 </div>
@@ -68,9 +69,9 @@
 </div>
 
 +++?image=assets/image/topology.jpg
-이미지 1
-+++
-이미지 2
+
++++?image=assets/image/analysis.jpg
+
 ---
 
 ### Elena Project 개발 기능 
@@ -91,7 +92,7 @@
 
 ---?image=assets/image/topology.jpg
 
----?image=assets/image/analysis.jpg
+---
 
 ### Questions?
 
