@@ -9,7 +9,7 @@ theme : night
 theme-override : assets/css/PITCHME.css
 layout : top
 logo : assets/image/opdc-black.png
-transition : fade
+transition : slide
 footnote : Elena Project @ OPDC
 
 # set slide page
