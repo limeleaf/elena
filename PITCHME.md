@@ -44,7 +44,8 @@
 - [LENA](http://soltech.lgcns.com/lena) 커뮤니티 버전 
 - Tomcat + Enterprise 기능 + APM + E2E + α
 - @css[byline](관련 프로젝트 : LENA, TunA, Tomcat, Apache HTTP Server, Nginx
-@ulend)
+
+@ulend
 
 +++?image=assets/images/lena-bg.jpg&size=cover&opacity=20
 
@@ -66,7 +67,7 @@
     </ul>
 </div>
 
-+++
++++?image=assets/image/topology.jpg
 이미지 1
 +++
 이미지 2
@@ -84,12 +85,13 @@
 <br>
 - 8월 : 아키텍처 설계(멀티 인스턴스 관리 등)
 - 9월 : 설치/관리 도구 개발
-- 10월 : SessonShareValve 등 보안 기능 개발, 1차 릴리즈(v0.1)
+- 10월 : SessonShareValve 등 보안 기능 개발<br>
+         1차 릴리즈(v0.1)
 - 11월 : 모니터링 기능 개발
 
 ---?image=assets/image/topology.jpg
 
----
+---?image=assets/image/analysis.jpg
 
 ### Questions?
 
