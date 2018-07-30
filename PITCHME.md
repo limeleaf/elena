@@ -58,26 +58,35 @@
 </div>
 <div class="right">
     <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
+        <li>Cloud향 지능형 어플리케이션 서버</li>
+        <li>40개사 400여개 시스템 적용</li>
+        <li>AWS Marketplace 등록(2017년)</li>     
+        <li>2017년 대한민국 소프트웨어 대상 s</li>
+        <li>GS 인증, 표준프레임워크 호환성 인증</li>
     </ul>
 </div>
 
++++
+이미지 1
++++
+이미지 2
 ---
 
 ### Elena Project 개발 기능 
 <br>
-- Tomcat + Enterprise 기능 + APM + E2E + α
-
+- Enterprise 기능 : Session Clustring, JTA
+- Security : 리소스 암호화 등
+- Monitoring : 모니터링 기능
 
 ---
 
 ### Elena Project 계획  
 <br>
-- Tomcat + Enterprise 기능 + APM + E2E + α
+- 8월 : 아키텍처 설계(멀티 인스턴스 관리 등)
+- 9월 : 설치/관리 도구 개발
+- 10월 : SessonShareValve 등 보안 기능 개발, 1차 릴리즈(v0.1)
+- 11월 : 모니터링 기능 개발
+---?image=assets/image/gitpitch-audience.jpg
 
 ---
 
@@ -85,9 +94,9 @@
 
 <br>
 
-@fa[github gp-contact](gitpitch)
+@fa[github gp-contact](opdc)
 
-@fa[medium gp-contact](@gitpitch)
+@fa[medium gp-contact](@gmail.com)
 
 ---?image=assets/image/gitpitch-audience.jpg
 
