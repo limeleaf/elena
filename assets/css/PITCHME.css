@@ -47,6 +47,18 @@
     width: 55%;
 }
 
+.reveal div.left2 {
+    float: left;
+    z-index: -10;
+    width: 30%;
+}
+
+.reveal div.right2 {
+    float: right;
+    z-index: -10;
+    width: 70%;
+}
+
 .reveal a.pro-link {
     font-size: 0.5em;
 }
