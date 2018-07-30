@@ -86,7 +86,8 @@
 - 9월 : 설치/관리 도구 개발
 - 10월 : SessonShareValve 등 보안 기능 개발, 1차 릴리즈(v0.1)
 - 11월 : 모니터링 기능 개발
----?image=assets/image/gitpitch-audience.jpg
+
+---?image=assets/image/topology.jpg
 
 ---
 
