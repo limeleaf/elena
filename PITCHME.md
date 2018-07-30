@@ -99,7 +99,7 @@
 
 @fa[github gp-contact](opdc)
 
-@fa[medium gp-contact](@gmail.com)
+sleepred@fa[medium gp-contact](@gmail.com)
 
 ---?image=assets/image/gitpitch-audience.jpg
 
