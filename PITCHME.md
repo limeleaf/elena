@@ -56,7 +56,7 @@
 
 <br>
 <div class="left2">
-    ![Image-Absolute](https://github.com/opdc/elena/blob/master/assets/image/lena-bg.JPG)
+    ![Image-Absolute](https://raw.githubusercontent.com/opdc/elena/master/assets/image/lena-bg.JPG)
     <a href="http://soltech.lgcns.com/lena" class="pro-link">
     More details here.</a>
 </div>
