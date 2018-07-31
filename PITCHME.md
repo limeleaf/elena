@@ -15,8 +15,8 @@
   - 표준프레임워크 1,2,3 단계 구추 사업
   - 표준프레임워크 유지보수 사업  
   - 오픈소스 기반 표준프레임워크 개발 
-<br>  
-- 표준프레임워크 에반젤리스트/커미터 (2012~) 
+<br><br>  
+- @css[gold](표준프레임워크 에반젤리스트/커미터) (2012~) 
 
 +++
 
@@ -29,8 +29,8 @@
 - Cloud 아키텍트 (2017~)
   - Cloud向 솔루션 개발
   - 대한민국S/W 기술대상대상수상(LENA, 2017)<br>
-
-- 아파치 재단 커미터 (2014~) 
+<br><br> 
+- @css[gold](아파치 재단 커미터) (2014~) 
 <br>
 @ulend
 ---
@@ -42,20 +42,22 @@
 
 - Enterprise Web Applicaiton Server 개발 프로젝트 
   + for example, [Wildfly](http://wildfly.org/about/), [TCat](https://www.mulesoft.com/tcat/leading-enterprise-apache-tomcat-application-server), tc Server
-- [LENA](http://soltech.lgcns.com/lena) 커뮤니티 버전 
 - Tomcat + Enterprise 기능 + APM + E2E + α
-- @css[byline](관련 프로젝트 : LENA, TunA, Tomcat, Apache HTTP Server, Nginx
+<br><br> 
+- [LENA](http://soltech.lgcns.com/lena) 커뮤니티 버전 
+<br><br> 
+- 관련 프로젝트 : LENA, TunA, Tomcat, Apache HTTP Server, Nginx
 
 @ulend
 
-+++?image=assets/images/lena-bg.jpg&size=cover&opacity=20
++++
 
 ### LENA Project
 
 <br>
 <div class="left">
     <img src="./assets/image/lena-logo.jpg">
-    <a href="https://gitpitch.com/pro-features" class="pro-link">
+    <a href="http://soltech.lgcns.com/lena" class="pro-link">
     More details here.</a>
 </div>
 <div class="right">
@@ -76,6 +78,7 @@
 
 ### Elena Project 개발 기능 
 <br>
+- Provisioning : CLI 기반 설치/관리
 - Enterprise 기능 : Session Clustring, JTA
 - Security : 리소스 암호화 등
 - Monitoring : 모니터링 기능
