@@ -29,7 +29,7 @@
 - Cloud 아키텍트 (2017~)
   - Cloud向 솔루션 개발
   - 대한민국S/W 기술대상대상수상(LENA, 2017)<br>
-<br><br> 
+<br>
 - @css[gold](아파치 재단 커미터) (2014~) 
 <br>
 @ulend
@@ -43,10 +43,10 @@
 - Enterprise Web Applicaiton Server 개발 프로젝트 
   + for example, [Wildfly](http://wildfly.org/about/), [TCat](https://www.mulesoft.com/tcat/leading-enterprise-apache-tomcat-application-server), tc Server
 - Tomcat + Enterprise 기능 + APM + E2E + α
-<br><br> 
+<br>
 - [LENA](http://soltech.lgcns.com/lena) 커뮤니티 버전 
-<br><br> 
-- 관련 프로젝트 : LENA, TunA, Tomcat, Apache HTTP Server, Nginx
+<br>
+- 관련 오픈소스 프로젝트 : LENA, TunA, Tomcat, Apache HTTP Server, Nginx
 
 @ulend
 
@@ -55,12 +55,12 @@
 ### LENA Project
 
 <br>
-<div class="left">
+<div class="left2">
     <img src="./assets/image/lena-logo.jpg">
     <a href="http://soltech.lgcns.com/lena" class="pro-link">
     More details here.</a>
 </div>
-<div class="right">
+<div class="right2">
     <ul>
         <li>Cloud향 지능형 어플리케이션 서버</li>
         <li>40개사 400여개 시스템 적용</li>
