@@ -46,7 +46,7 @@
 <br>
 - [LENA](http://soltech.lgcns.com/lena) 커뮤니티 버전 
 <br>
-- 관련 오픈소스 프로젝트 : LENA, TunA, Tomcat, Apache HTTP Server, Nginx
+- 관련 프로젝트 : LENA, TunA, Tomcat, Apache HTTP Server, Nginx
 
 @ulend
 
@@ -56,7 +56,7 @@
 
 <br>
 <div class="left2">
-    ![Image-Absolute](assets/image/lena-logo.png)
+    ![Image-Absolute](./assets/image/lena-logo.png)
     <a href="http://soltech.lgcns.com/lena" class="pro-link">
     More details here.</a>
 </div>
