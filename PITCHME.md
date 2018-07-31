@@ -65,8 +65,8 @@
         <li>Cloud향 지능형 어플리케이션 서버</li>
         <li>40개사 400여개 시스템 적용</li>
         <li>AWS Marketplace 등록(2017년)</li>     
-        <li>2017년 대한민국 소프트웨어 대상 s</li>
-        <li>GS 인증, 표준프레임워크 호환성 인증</li>
+        <li>2017년 대한민국 소프트웨어 대상</li>
+        <li>GS, 표준프레임워크 호환성 인증</li>
     </ul>
 </div>
 
@@ -88,12 +88,10 @@
 ### Elena Project 계획  
 <br>
 - 8월 : 아키텍처 설계(멀티 인스턴스 관리 등)
-- 9월 : 설치/관리 도구 개발
+- 9월 : 설치/관리 도구 개발 (CLI 기반)
 - 10월 : SessonShareValve 등 보안 기능 개발<br>
          1차 릴리즈(v0.1)
 - 11월 : 모니터링 기능 개발
-
----?image=assets/image/topology.jpg
 
 ---
 
@@ -107,22 +105,8 @@ sleepred@fa[medium gp-contact](@gmail.com)
 
 ---?image=assets/image/gitpitch-audience.jpg
 
-@title[Download this Template!]
-
-### <span class="white">Get your presentation started!</span>
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/sky)
-
----?image=assets/image/gitpitch-audience.jpg
-
----?survey=https://www.surveymonkey.com/r/B73FNQK&color=linear-gradient(to top, #000046, #1cb5e0)
 
 ---?color=linear-gradient(to bottom, #007991, #78ffd6)
 
-<br>
-#### Experience JotForm Live!
-
-@fa[arrow-right fa-2x]
-
----?survey=https://form.jotform.me/81050187195456&color=linear-gradient(to bottom, #007991, #78ffd6)
 
 ---
