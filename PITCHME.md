@@ -56,7 +56,7 @@
 
 <br>
 <div class="left2">
-    <img src="./assets/image/lena-logo.jpg">
+    ![Image-Absolute](assets/image/lena-logo.png)
     <a href="http://soltech.lgcns.com/lena" class="pro-link">
     More details here.</a>
 </div>
